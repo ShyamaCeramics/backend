@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "aa9fb2_sha",
+    "password": "Fake@123456",
+    "database": "db_aa9fb2_sha",
+    "host": "mysql8010.site4now.net",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
